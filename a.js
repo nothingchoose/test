@@ -1,2 +1,1 @@
-
-alert(1)
+document.write("123123213")
